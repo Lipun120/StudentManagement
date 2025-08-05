@@ -1,4 +1,4 @@
-                                                                                       Student Management CLI
+                                                                     Student Management CLI
 
   A simple **Command-Line Interface (CLI)** based CRUD application in Java for managing student records.  
   This program lets you **Add**, **View**, **Update**, and **Delete** students using `ArrayList` and OOP principles.
